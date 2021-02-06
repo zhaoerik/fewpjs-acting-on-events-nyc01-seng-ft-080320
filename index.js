@@ -7,3 +7,5 @@ function moveDodgerRight() {
       dodger.style.left = `${left + 1}px`;
     }
   }
+  
+let dodger = document.getElementById("dodger");
